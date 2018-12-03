@@ -1,0 +1,36 @@
+PODS:
+  - Masonry (1.1.0)
+  - SDWebImage (4.4.2):
+    - SDWebImage/Core (= 4.4.2)
+  - SDWebImage/Core (4.4.2)
+  - TZImagePickerController (3.0.6)
+  - YBImageBrowser (2.0.8):
+    - SDWebImage
+    - YYImage
+  - YYImage (1.0.4):
+    - YYImage/Core (= 1.0.4)
+  - YYImage/Core (1.0.4)
+
+DEPENDENCIES:
+  - Masonry
+  - TZImagePickerController
+  - YBImageBrowser (~> 2.0.8)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Masonry
+    - SDWebImage
+    - TZImagePickerController
+    - YBImageBrowser
+    - YYImage
+
+SPEC CHECKSUMS:
+  Masonry: 678fab65091a9290e40e2832a55e7ab731aad201
+  SDWebImage: 624d6e296c69b244bcede364c72ae0430ac14681
+  TZImagePickerController: f1cc4b5720f6d01c9804ad136c28bb8a986388d7
+  YBImageBrowser: 83705c6a633494df76dbbd61e68e0ca76eaf279b
+  YYImage: 1e1b62a9997399593e4b9c4ecfbbabbf1d3f3b54
+
+PODFILE CHECKSUM: 912d465987b72a5adb3eaa398460f526ec070966
+
+COCOAPODS: 1.5.3
